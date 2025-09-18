@@ -1,0 +1,25 @@
+1. Auto.sh
+
+Usage: Execute using Git Bash or any environment where shell scripting is available.
+
+Notes: No additional dependencies required apart from a shell environment.
+
+2. Upload_blob.py
+
+Requirements: Python must be installed.
+
+Function: Contains the connection key to Azure for blob operations.
+
+Notes: Running the file will not cause issues—it mainly establishes connection logic.
+
+3. dissmainpreprocessing
+
+Dependencies: Uses PySpark, MongoDB, and Pandas.
+
+Environment: Originally created in Google Colab, which has these tools pre-installed.
+
+Local Setup:
+
+If running locally, install the required packages.
+
+The script already contains installation commands.
